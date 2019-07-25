@@ -1,0 +1,14 @@
+.idea
+.tscache
+*.iml
+.baseDir.ts
+target
+node_modules
+pom.xml.versionsBackup
+.DS_Store
+*.swp
+*.tmp.txt
+package-lock.json
+comminters.txt
+storybook-static
+duplicates_finder_log.txt

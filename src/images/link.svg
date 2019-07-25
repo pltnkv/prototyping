@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>link</title>
+    <desc>Created with Sketch.</desc>
+    <g id="link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(12.000000, 12.000000) rotate(45.000000) translate(-12.000000, -12.000000) translate(7.500000, 0.500000)" fill="#050038">
+            <path d="M8,10.5 C7.44771525,10.5 7,10.0522847 7,9.5 L7,4 C7,2.8954305 5.6045695,2 4.5,2 C3.3954305,2 2,2.8954305 2,4 L2,9.5 C2,10.0522847 1.55228475,10.5 1,10.5 C0.44771525,10.5 6.76353751e-17,10.0522847 0,9.5 L0,4 C0,1.790861 2.290861,0 4.5,0 C6.709139,0 9,1.790861 9,4 L9,9.5 C9,10.0522847 8.55228475,10.5 8,10.5 Z" id="Rectangle-2" fill-rule="nonzero"></path>
+            <rect id="Rectangle-10" x="3.5" y="5.5" width="2" height="12"></rect>
+            <path d="M1,13 C1.55228475,13 2,13.4477153 2,14 L2,19 C2,20.1045695 3.3954305,21 4.5,21 C5.6045695,21 7,20.1045695 7,19 L7,14 C7,13.4477153 7.44771525,13 8,13 C8.55228475,13 9,13.4477153 9,14 L9,19 C9,21.209139 6.709139,23 4.5,23 C2.290861,23 0,21.209139 0,19 L0,14 C-6.76353751e-17,13.4477153 0.44771525,13 1,13 Z" id="Rectangle-2-Copy" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
